@@ -1,3 +1,4 @@
+Modified by WANG Kaixuan
 # DeMoN: Depth and Motion Network
 
 [![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](LICENSE)
